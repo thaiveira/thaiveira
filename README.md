@@ -1,5 +1,5 @@
-### About Me:
-Olá, sou Thaise Oliveira, bacharel em design gráfico e eterna estudante fullstack. 
+### Olá, sou Thaise Oliveira,
+bacharel em design gráfico com uma base sólida em habilidades interpessoais e técnicas criativas, que aliada ao foco em desenvolvimento fullstack, busca contribuir proativamente em projetos do front ao back-end.
 
 Atualmente meu portifólio está no [Codeberg](https://codeberg.org/thaiveira); este gitHub é reservado apenas para uso profissional, contribuições para open source e repositórios privados.
 
