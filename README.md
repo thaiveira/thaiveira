@@ -5,7 +5,7 @@
 Projetos solo e open source, da identidade visual ao banco de dados.
 
 ✶ 10 anos em design e artes visuais ✶ Dados ✶ Back-end ✶ Front-end ✶ UX/UI
----
+
 
 ## Aqui no GitHub
 Projetos de web, design e automação, contribuições para a comunidade e o código do meu site.
