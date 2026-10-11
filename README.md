@@ -19,7 +19,7 @@ Projetos de web, design e automação, contribuições para a comunidade e o có
 
 ## Meus projetos de cursos e análise de dados ficam no Codeberg
 
-SQL, Python, Power BI, Looker e Streamlit.
+SQL, Python, Power BI, Looker, Google Sheets.
 👉 [codeberg.org/thaiveira](https://codeberg.org/thaiveira)
 
 ## Stack
