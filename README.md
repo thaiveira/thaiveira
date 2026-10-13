@@ -14,7 +14,7 @@ Projetos de web, design e automação, contribuições para a comunidade e o có
 
 - [thaiveira - GitHub pages](https://github.com/thaiveira/thaiveira.github.io): meu site pessoal, com portfólio, blog, métricas e opção de tema escuro em JavaScript. [Ver o site](https://thaiveira.com.br)
 - [AWS - Nova Tech - EDN](https://github.com/thaiveira/AWS-nova-tech-EDN): arquitetura em nuvem para um e-commerce, com foco em confiabilidade e recuperação de desastres, com templates de infraestrutura como código em YAML como projeto final da Escola da Nuvem (AWS Re/Start).
-- [Quem não e segue de volta no GitHub?](https://github.com/thaiveira/who-dont-follow-back-in-github): descubra quem não te segue de volta no GitHub.
+- [Quem não te segue de volta no GitHub?](https://github.com/thaiveira/who-dont-follow-back-in-github): descubra quem não te segue de volta no GitHub.
 - [Rice esta vivo](https://github.com/thaiveira/riceestavivo):HUD em Conky e terminal personalizados para meu Linux.
 
 ## Meus projetos de cursos e análise de dados ficam no Codeberg
